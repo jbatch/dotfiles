@@ -1,0 +1,7 @@
+[user]
+	name = Josh Batchelor
+	email = josh_batch@live.com.au
+[core]
+	editor = vim
+[push]
+	default = simple
