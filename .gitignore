@@ -1,4 +1,3 @@
 .emacs.d/elpa/*
 .emacs.d/bak/*
-.emacs/auto-save-list/*
-.emacs/auto-save-list/.*
+.emacs.d/auto-save-list/*
