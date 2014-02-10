@@ -1,6 +1,7 @@
 #! /bin/bash
 dir="`pwd`"
-for f in `find -maxdepth 1 ! -name "dot_init" -a ! -name "." -a ! -name ".git" -printf "%f\n"`
+for f in `find -maxdepth 1 ! -name "dot_init" -a ! -name "." -a ! \
+    -name ".git" -a ! -name ".gitignore" -printf "%f\n"`
 do
     rm -r ~/$f
     ln -s $dir/$f ~/$f
