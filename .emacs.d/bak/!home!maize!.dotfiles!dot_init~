@@ -1,6 +1,0 @@
-#! /bin/bash
-
-for f in `find -maxdepth 1 ! -name "dot_init" -a ! -name "."`
-do
-    echo $f
-done

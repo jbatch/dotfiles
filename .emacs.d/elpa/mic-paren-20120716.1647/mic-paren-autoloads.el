@@ -5,9 +5,9 @@
 
 ;;;### (autoloads (paren-backward-sexp paren-forward-sexp paren-toggle-open-paren-context
 ;;;;;;  paren-toggle-matching-quoted-paren paren-toggle-matching-paired-delimiter
-;;;;;;  paren-deactivate paren-activate) "mic-paren" "mic-paren.el"
-;;;;;;  (21235 25801 503920 16000))
-;;; Generated autoloads from mic-paren.el
+;;;;;;  paren-deactivate paren-activate) "mic-paren" "../../../../.emacs.d/elpa/mic-paren-20120716.1647/mic-paren.el"
+;;;;;;  "19da6658bff66986ad4d7148dfdb53f1")
+;;; Generated autoloads from ../../../../.emacs.d/elpa/mic-paren-20120716.1647/mic-paren.el
 
 (autoload 'paren-activate "mic-paren" "\
 Activate mic-paren parenthesis highlighting.
@@ -85,8 +85,9 @@ See `paren-match-quoted-paren'.
 
 ;;;***
 
-;;;### (autoloads nil nil ("mic-paren-pkg.el") (21235 25801 527601
-;;;;;;  544000))
+;;;### (autoloads nil nil ("../../../../.emacs.d/elpa/mic-paren-20120716.1647/mic-paren-pkg.el"
+;;;;;;  "../../../../.emacs.d/elpa/mic-paren-20120716.1647/mic-paren.el")
+;;;;;;  (21240 14007 959554 23000))
 
 ;;;***
 

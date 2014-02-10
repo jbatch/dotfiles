@@ -3,9 +3,9 @@
 ;;; Code:
 
 
-;;;### (autoloads (flx-ido-mode) "flx-ido" "flx-ido.el" (21235 25864
-;;;;;;  299918 106000))
-;;; Generated autoloads from flx-ido.el
+;;;### (autoloads (flx-ido-mode) "flx-ido" "../../../../.emacs.d/elpa/flx-ido-20131030.1243/flx-ido.el"
+;;;;;;  "f07ee998d79e6e628fc36dd0c5cc04c4")
+;;; Generated autoloads from ../../../../.emacs.d/elpa/flx-ido-20131030.1243/flx-ido.el
 
 (defvar flx-ido-mode nil "\
 Non-nil if Flx-Ido mode is enabled.
@@ -20,8 +20,9 @@ Toggle flx ido mode
 
 ;;;***
 
-;;;### (autoloads nil nil ("flx-ido-pkg.el") (21235 25864 312246
-;;;;;;  326000))
+;;;### (autoloads nil nil ("../../../../.emacs.d/elpa/flx-ido-20131030.1243/flx-ido-pkg.el"
+;;;;;;  "../../../../.emacs.d/elpa/flx-ido-20131030.1243/flx-ido.el")
+;;;;;;  (21240 14065 859877 321000))
 
 ;;;***
 

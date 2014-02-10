@@ -5,8 +5,9 @@
 
 ;;;### (autoloads (pkg-info-version-info pkg-info-package-version
 ;;;;;;  pkg-info-defining-library-version pkg-info-library-version)
-;;;;;;  "pkg-info" "pkg-info.el" (21235 25814 527919 620000))
-;;; Generated autoloads from pkg-info.el
+;;;;;;  "pkg-info" "../../../../.emacs.d/elpa/pkg-info-20131101.408/pkg-info.el"
+;;;;;;  "ac0e649bd955a1d0aa1845e0fb86c9c9")
+;;; Generated autoloads from ../../../../.emacs.d/elpa/pkg-info-20131101.408/pkg-info.el
 
 (autoload 'pkg-info-library-version "pkg-info" "\
 Get the version in the header of LIBRARY.
@@ -73,8 +74,9 @@ version.
 
 ;;;***
 
-;;;### (autoloads nil nil ("pkg-info-pkg.el") (21235 25814 532474
-;;;;;;  854000))
+;;;### (autoloads nil nil ("../../../../.emacs.d/elpa/pkg-info-20131101.408/pkg-info-pkg.el"
+;;;;;;  "../../../../.emacs.d/elpa/pkg-info-20131101.408/pkg-info.el")
+;;;;;;  (21240 14025 558257 31000))
 
 ;;;***
 

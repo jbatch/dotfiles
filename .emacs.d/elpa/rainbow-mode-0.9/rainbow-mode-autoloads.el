@@ -3,9 +3,9 @@
 ;;; Code:
 
 
-;;;### (autoloads (rainbow-mode) "rainbow-mode" "rainbow-mode.el"
-;;;;;;  (21235 25873 23917 840000))
-;;; Generated autoloads from rainbow-mode.el
+;;;### (autoloads (rainbow-mode) "rainbow-mode" "../../../../.emacs.d/elpa/rainbow-mode-0.9/rainbow-mode.el"
+;;;;;;  "d7f049e4f63154095d2bfe13092a5b9e")
+;;; Generated autoloads from ../../../../.emacs.d/elpa/rainbow-mode-0.9/rainbow-mode.el
 
 (autoload 'rainbow-mode "rainbow-mode" "\
 Colorize strings that represent colors.
@@ -15,8 +15,9 @@ This will fontify with colors the string like \"#aabbcc\" or \"blue\".
 
 ;;;***
 
-;;;### (autoloads nil nil ("rainbow-mode-pkg.el") (21235 25873 37147
-;;;;;;  676000))
+;;;### (autoloads nil nil ("../../../../.emacs.d/elpa/rainbow-mode-0.9/rainbow-mode-pkg.el"
+;;;;;;  "../../../../.emacs.d/elpa/rainbow-mode-0.9/rainbow-mode.el")
+;;;;;;  (21240 14073 177810 501000))
 
 ;;;***
 

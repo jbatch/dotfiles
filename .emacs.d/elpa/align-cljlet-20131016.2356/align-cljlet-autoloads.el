@@ -3,9 +3,9 @@
 ;;; Code:
 
 
-;;;### (autoloads (align-cljlet) "align-cljlet" "align-cljlet.el"
-;;;;;;  (21235 25813 563919 649000))
-;;; Generated autoloads from align-cljlet.el
+;;;### (autoloads (align-cljlet) "align-cljlet" "../../../../.emacs.d/elpa/align-cljlet-20131016.2356/align-cljlet.el"
+;;;;;;  "719ab6fdd574e87d66456c6bf5efb87e")
+;;; Generated autoloads from ../../../../.emacs.d/elpa/align-cljlet-20131016.2356/align-cljlet.el
 
 (autoload 'align-cljlet "align-cljlet" "\
 Align a let form so that the bindings neatly align into columns
@@ -14,8 +14,9 @@ Align a let form so that the bindings neatly align into columns
 
 ;;;***
 
-;;;### (autoloads nil nil ("align-cljlet-pkg.el") (21235 25813 570132
-;;;;;;  872000))
+;;;### (autoloads nil nil ("../../../../.emacs.d/elpa/align-cljlet-20131016.2356/align-cljlet-pkg.el"
+;;;;;;  "../../../../.emacs.d/elpa/align-cljlet-20131016.2356/align-cljlet.el")
+;;;;;;  (21240 14024 318249 148000))
 
 ;;;***
 

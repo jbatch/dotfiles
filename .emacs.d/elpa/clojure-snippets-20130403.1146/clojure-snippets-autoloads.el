@@ -4,8 +4,9 @@
 
 
 ;;;### (autoloads (clojure-snippets-initialize) "clojure-snippets"
-;;;;;;  "clojure-snippets.el" (21235 25883 479917 522000))
-;;; Generated autoloads from clojure-snippets.el
+;;;;;;  "../../../../.emacs.d/elpa/clojure-snippets-20130403.1146/clojure-snippets.el"
+;;;;;;  "400fa911c73df99ec50b19a0df71e73d")
+;;; Generated autoloads from ../../../../.emacs.d/elpa/clojure-snippets-20130403.1146/clojure-snippets.el
 
 (autoload 'clojure-snippets-initialize "clojure-snippets" "\
 
@@ -16,8 +17,9 @@
 
 ;;;***
 
-;;;### (autoloads nil nil ("clojure-snippets-pkg.el") (21235 25883
-;;;;;;  481799 883000))
+;;;### (autoloads nil nil ("../../../../.emacs.d/elpa/clojure-snippets-20130403.1146/clojure-snippets-pkg.el"
+;;;;;;  "../../../../.emacs.d/elpa/clojure-snippets-20130403.1146/clojure-snippets.el")
+;;;;;;  (21240 14104 787284 330000))
 
 ;;;***
 

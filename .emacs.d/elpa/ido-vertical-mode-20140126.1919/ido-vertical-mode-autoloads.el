@@ -3,9 +3,9 @@
 ;;; Code:
 
 
-;;;### (autoloads (ido-vertical-mode) "ido-vertical-mode" "ido-vertical-mode.el"
-;;;;;;  (21235 25864 931918 86000))
-;;; Generated autoloads from ido-vertical-mode.el
+;;;### (autoloads (ido-vertical-mode) "ido-vertical-mode" "../../../../.emacs.d/elpa/ido-vertical-mode-20140126.1919/ido-vertical-mode.el"
+;;;;;;  "2f68515d3ad1446a5a12d0f4bc7f6244")
+;;; Generated autoloads from ../../../../.emacs.d/elpa/ido-vertical-mode-20140126.1919/ido-vertical-mode.el
 
 (defvar ido-vertical-mode nil "\
 Non-nil if Ido-Vertical mode is enabled.
@@ -23,8 +23,9 @@ Makes ido-mode display vertically.
 
 ;;;***
 
-;;;### (autoloads nil nil ("ido-vertical-mode-pkg.el") (21235 25864
-;;;;;;  945074 138000))
+;;;### (autoloads nil nil ("../../../../.emacs.d/elpa/ido-vertical-mode-20140126.1919/ido-vertical-mode-pkg.el"
+;;;;;;  "../../../../.emacs.d/elpa/ido-vertical-mode-20140126.1919/ido-vertical-mode.el")
+;;;;;;  (21240 14066 640190 216000))
 
 ;;;***
 

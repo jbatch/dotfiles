@@ -4,8 +4,9 @@
 
 
 ;;;### (autoloads (diminished-modes diminish-undo diminish) "diminish"
-;;;;;;  "diminish.el" (21235 25802 31920 0))
-;;; Generated autoloads from diminish.el
+;;;;;;  "../../../../.emacs.d/elpa/diminish-20091203.1012/diminish.el"
+;;;;;;  "8caa1c00d80089a6cb9caade9a6cb839")
+;;; Generated autoloads from ../../../../.emacs.d/elpa/diminish-20091203.1012/diminish.el
 
 (autoload 'diminish "diminish" "\
 Diminish mode-line display of minor mode MODE to TO-WHAT (default \"\").
@@ -49,8 +50,9 @@ what diminished modes would be on the mode-line if they were still minor.
 
 ;;;***
 
-;;;### (autoloads nil nil ("diminish-pkg.el") (21235 25802 37750
-;;;;;;  9000))
+;;;### (autoloads nil nil ("../../../../.emacs.d/elpa/diminish-20091203.1012/diminish-pkg.el"
+;;;;;;  "../../../../.emacs.d/elpa/diminish-20091203.1012/diminish.el")
+;;;;;;  (21240 14008 710628 891000))
 
 ;;;***
 

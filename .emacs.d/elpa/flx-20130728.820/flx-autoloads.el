@@ -3,8 +3,9 @@
 ;;; Code:
 
 
-;;;### (autoloads nil nil ("flx-pkg.el" "flx.el") (21235 25863 945786
-;;;;;;  370000))
+;;;### (autoloads nil nil ("../../../../.emacs.d/elpa/flx-20130728.820/flx-pkg.el"
+;;;;;;  "../../../../.emacs.d/elpa/flx-20130728.820/flx.el") (21240
+;;;;;;  14065 338008 177000))
 
 ;;;***
 

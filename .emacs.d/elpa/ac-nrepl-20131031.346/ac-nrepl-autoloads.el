@@ -4,8 +4,9 @@
 
 
 ;;;### (autoloads (ac-nrepl-popup-doc ac-nrepl-setup) "ac-nrepl"
-;;;;;;  "ac-nrepl.el" (21235 25818 907919 487000))
-;;; Generated autoloads from ac-nrepl.el
+;;;;;;  "../../../../.emacs.d/elpa/ac-nrepl-20131031.346/ac-nrepl.el"
+;;;;;;  "e16ac35016b633ca42fc3062a9a09a82")
+;;; Generated autoloads from ../../../../.emacs.d/elpa/ac-nrepl-20131031.346/ac-nrepl.el
 
 (defface ac-nrepl-candidate-face '((t (:inherit ac-candidate-face))) "\
 Face for nrepl candidates." :group (quote auto-complete))
@@ -47,8 +48,9 @@ A popup alternative to `nrepl-doc'.
 
 ;;;***
 
-;;;### (autoloads nil nil ("ac-nrepl-pkg.el") (21235 25818 913478
-;;;;;;  842000))
+;;;### (autoloads nil nil ("../../../../.emacs.d/elpa/ac-nrepl-20131031.346/ac-nrepl-pkg.el"
+;;;;;;  "../../../../.emacs.d/elpa/ac-nrepl-20131031.346/ac-nrepl.el")
+;;;;;;  (21240 14028 905527 582000))
 
 ;;;***
 

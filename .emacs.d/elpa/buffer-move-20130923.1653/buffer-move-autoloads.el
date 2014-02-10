@@ -4,8 +4,9 @@
 
 
 ;;;### (autoloads (buf-move-right buf-move-left buf-move-down buf-move-up)
-;;;;;;  "buffer-move" "buffer-move.el" (21235 25863 255918 137000))
-;;; Generated autoloads from buffer-move.el
+;;;;;;  "buffer-move" "../../../../.emacs.d/elpa/buffer-move-20130923.1653/buffer-move.el"
+;;;;;;  "c9f9f4b29f02cfbd9be0222ec68f5e3c")
+;;; Generated autoloads from ../../../../.emacs.d/elpa/buffer-move-20130923.1653/buffer-move.el
 
 (autoload 'buf-move-up "buffer-move" "\
 Swap the current buffer and the buffer above the split.
@@ -37,8 +38,9 @@ one, an error is signaled.
 
 ;;;***
 
-;;;### (autoloads nil nil ("buffer-move-pkg.el") (21235 25863 269940
-;;;;;;  810000))
+;;;### (autoloads nil nil ("../../../../.emacs.d/elpa/buffer-move-20130923.1653/buffer-move-pkg.el"
+;;;;;;  "../../../../.emacs.d/elpa/buffer-move-20130923.1653/buffer-move.el")
+;;;;;;  (21240 14064 319272 988000))
 
 ;;;***
 

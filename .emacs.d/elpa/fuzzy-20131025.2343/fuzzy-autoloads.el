@@ -3,8 +3,9 @@
 ;;; Code:
 
 
-;;;### (autoloads nil nil ("fuzzy-pkg.el" "fuzzy.el") (21235 25803
-;;;;;;  807648 195000))
+;;;### (autoloads nil nil ("../../../../.emacs.d/elpa/fuzzy-20131025.2343/fuzzy-pkg.el"
+;;;;;;  "../../../../.emacs.d/elpa/fuzzy-20131025.2343/fuzzy.el")
+;;;;;;  (21240 14011 190074 777000))
 
 ;;;***
 

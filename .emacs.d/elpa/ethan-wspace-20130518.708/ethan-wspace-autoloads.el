@@ -4,8 +4,9 @@
 
 
 ;;;### (autoloads (global-ethan-wspace-mode ethan-wspace-mode) "ethan-wspace"
-;;;;;;  "ethan-wspace.el" (21235 25803 347919 960000))
-;;; Generated autoloads from ethan-wspace.el
+;;;;;;  "../../../../.emacs.d/elpa/ethan-wspace-20130518.708/ethan-wspace.el"
+;;;;;;  "8a6a838213eae396579f027330711992")
+;;; Generated autoloads from ../../../../.emacs.d/elpa/ethan-wspace-20130518.708/ethan-wspace.el
 
 (autoload 'ethan-wspace-mode "ethan-wspace" "\
 Minor mode for coping with whitespace.
@@ -37,8 +38,9 @@ See `ethan-wspace-mode' for more information on Ethan-Wspace mode.
 
 ;;;***
 
-;;;### (autoloads nil nil ("ethan-wspace-pkg.el") (21235 25803 357152
-;;;;;;  802000))
+;;;### (autoloads nil nil ("../../../../.emacs.d/elpa/ethan-wspace-20130518.708/ethan-wspace-pkg.el"
+;;;;;;  "../../../../.emacs.d/elpa/ethan-wspace-20130518.708/ethan-wspace.el")
+;;;;;;  (21240 14010 626484 90000))
 
 ;;;***
 

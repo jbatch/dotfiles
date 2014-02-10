@@ -3,9 +3,9 @@
 ;;; Code:
 
 
-;;;### (autoloads (clojure-mode) "clojure-mode" "clojure-mode.el"
-;;;;;;  (21235 25812 867919 670000))
-;;; Generated autoloads from clojure-mode.el
+;;;### (autoloads (clojure-mode) "clojure-mode" "../../../../.emacs.d/elpa/clojure-mode-20140201.649/clojure-mode.el"
+;;;;;;  "ee637051fb09aa5f6af98b46d829c3a3")
+;;; Generated autoloads from ../../../../.emacs.d/elpa/clojure-mode-20140201.649/clojure-mode.el
 
 (autoload 'clojure-mode "clojure-mode" "\
 Major mode for editing Clojure code - similar to Lisp mode.
@@ -33,8 +33,9 @@ if that value is non-nil.
 
 ;;;***
 
-;;;### (autoloads nil nil ("clojure-mode-pkg.el") (21235 25812 874326
-;;;;;;  812000))
+;;;### (autoloads nil nil ("../../../../.emacs.d/elpa/clojure-mode-20140201.649/clojure-mode-pkg.el"
+;;;;;;  "../../../../.emacs.d/elpa/clojure-mode-20140201.649/clojure-mode.el")
+;;;;;;  (21240 14023 629911 536000))
 
 ;;;***
 
