@@ -5,7 +5,13 @@
 " Source: http://bitbucket.org/sjl/dotfiles/src/tip/vim/
 "
 " This just contains settings that I think should be on all vim by default.
-" Since I use "..." for managing my dotfiles, different .vimrc files will get built up.
+" Since I use "..." for managing my dotfiles, different .vimrc files will 
+" get built up.
+"
+" Set color scheme
+colorscheme molokai
+highlight Normal ctermbg=None
+set background=dark
 
 " Turn off filetype detection for the moment.
 filetype off

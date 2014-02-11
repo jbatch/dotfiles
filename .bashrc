@@ -115,3 +115,4 @@ fi
 
 # Parts added by me
 export PS1="JBatch@\w $ "
+export TERM=xterm-256color
