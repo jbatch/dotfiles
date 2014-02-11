@@ -13,12 +13,6 @@ filetype off
 " We will want these when filetype gets turned back on.
 filetype plugin indent on
 
-"Pathogen
-execute pathogen#infect()
-
-" Powerline
-let g:Powerline_symbols = 'fancy'
-
 " It's 2013 now.
 set nocompatible
 
@@ -41,7 +35,7 @@ set history=1000
 set undofile
 set undoreload=10000
 set list
-set listchars=tab:▸\ ,extends:❯,precedes:❮
+set listchars=tab:▸\ ,eol:¬,extends:❯,precedes:❮
 set lazyredraw
 set matchtime=3
 set showbreak=↪
@@ -135,3 +129,29 @@ augroup line_return
         \     execute 'normal! g`"zvzz' |
         \ endif
 augroup END
+
+" }}}
+
+" Backups {{{
+
+set backup                        " enable backups
+set noswapfile                    " it's 2013, Vim.
+
+set undodir=~/.vim/tmp/undo//     " undo files
+set backupdir=~/.vim/tmp/backup// " backups
+set directory=~/.vim/tmp/swap//   " swap files
+
+" Make those folders automatically if they don't already exist.
+if !isdirectory(expand(&undodir))
+    call mkdir(expand(&undodir), "p")
+endif
+if !isdirectory(expand(&backupdir))
+    call mkdir(expand(&backupdir), "p")
+endif
+if !isdirectory(expand(&directory))
+    call mkdir(expand(&directory), "p")
+endif
+
+" }}}
+
+" }}}

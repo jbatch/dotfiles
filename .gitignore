@@ -1,3 +1,5 @@
 .emacs.d/elpa/*
 .emacs.d/bak/*
 .emacs.d/auto-save-list/*
+.emacs.d/session*
+*.un~
